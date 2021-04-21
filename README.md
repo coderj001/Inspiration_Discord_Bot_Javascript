@@ -2,7 +2,7 @@
 
 It's an open source, fully customizable Discord bot that is constantly growing.
 
-[discord](https://https://discord.gg/S88fGJYm) room link and join the room to check it out.
+[discord](https://discord.gg/S88fGJYm) room link and join the room to check it out.
 
 ### Features
 
